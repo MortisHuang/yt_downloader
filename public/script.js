@@ -1,10 +1,10 @@
 var browser = browser || chrome
 
 // heroku endpoints
-const server_endpoint = 'https://ytmp3-converter.herokuapp.com/'
-const download_endpoint = 'https://ytmp3-converter.herokuapp.com/download/'
-const get_info_endpoint = 'https://ytmp3-converter.herokuapp.com/getInfo/'
-const wakeup_dlp_endpoint = 'https://yt-dlp-back.herokuapp.com/wakeup'
+const server_endpoint = 'https://m0rtis.herokuapp.com/'
+const download_endpoint = 'https://m0rtis.herokuapp.com/download/'
+const get_info_endpoint = 'https://m0rtis.herokuapp.com/getInfo/'
+const wakeup_dlp_endpoint = 'https://m0rtis.herokuapp.com/wakeup'
 
 // locally
 // const server_endpoint = 'http://localhost:3000/'
